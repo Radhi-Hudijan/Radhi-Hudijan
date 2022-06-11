@@ -1,5 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" height="200"/>
+</div>
+
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhi-Hudijan&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhi-Hudijan&layout=compact)](https://github.com/Radhi-Hudijan/github-readme-stats)
 <!--
 **Radhi-Hudijan/Radhi-Hudijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
