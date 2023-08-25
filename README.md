@@ -12,8 +12,8 @@
 
                 
 <p align="center">  🌱 I’m currently learning Web Development and other programming languages<br>
- 🔭 I’m currently working on Reservation App<br>
- 👯 I’m open to A new job opportunity. <a href="https://docs.google.com/presentation/d/16VXtBSVgLS4eCY3VJysuau794hcE9gPzkU-DBlsjjhw/edit?usp=sharing">LINK TO MY RESUME</a> <br>
+ 🔭 I’m currently working on <a href="https://github.com/Radhi-Hudijan/noorBookingDp">Reservation App</a> <br>
+ 👯 I’m open to A new job opportunity. <a href="https://app.enhancv.com/share/9d080c5b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">LINK TO MY RESUME</a> <br>
  💬 Ask me about anything </p> 
 
 ---
