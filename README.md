@@ -63,11 +63,5 @@
   <a href="https://www.linkedin.com/in/radhi-hudijan-094b8072/" target="blank"><img align="center"
       src="https://camo.githubusercontent.com/468c039187d052f8ae820bc9a55abaca683f7a71c97a18d1c209bf67a790159a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30312f4c696e6b6564496e5f4c6f676f2e7376672f3132303070782d4c696e6b6564496e5f4c6f676f2e7376672e706e67"
       alt="adam pithewan" height="30px" /></a>
-  <a href="https://www.facebook.com/radhi.hudijan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/radhi2009" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
