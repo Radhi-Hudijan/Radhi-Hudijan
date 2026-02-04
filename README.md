@@ -4,15 +4,15 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a full stack web developer.<br/>I speaks 2 languages(English & Arabic) and soon Dutch will be added .<br> I also have experince in travel & Tours<br></p><br/>
+<p align="center">I'm a Cloud Engineer.<br/>I speaks 2 languages(English & Arabic) and soon Dutch will be added .<br> I also have experince in web development <br></p><br/>
 
 ---
 <h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/1802/1802977.png" align="center"
                 width="28" /> What I currently do</h1>
 
                 
-<p align="center">  🌱 I’m currently learning Web Development and other programming languages<br>
- 🔭 I’m currently working on <a href="https://github.com/Radhi-Hudijan/Real-Estate-Marketplace-MERN-APP">Real Estate App</a> <br>
+<p align="center">  🌱 I’m currently deeping dive into cloud and DevOps <br>
+ 🔭 I’m currently working on <a href="(https://github.com/Radhi-Hudijan/QR-generator-devOps)">QR Generaor DevOps app</a> <br>
  👯 I’m open to A new job opportunity. <a href="https://app.enhancv.com/share/25b4b1f5/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">LINK TO MY RESUME</a> <br>
  💬 Ask me about anything </p> 
 
